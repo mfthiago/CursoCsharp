@@ -1,0 +1,14 @@
+L:\c#\EnumComposition\EnumComposition\bin\Debug\net6.0\EnumComposition.exe
+L:\c#\EnumComposition\EnumComposition\bin\Debug\net6.0\EnumComposition.deps.json
+L:\c#\EnumComposition\EnumComposition\bin\Debug\net6.0\EnumComposition.runtimeconfig.json
+L:\c#\EnumComposition\EnumComposition\bin\Debug\net6.0\EnumComposition.dll
+L:\c#\EnumComposition\EnumComposition\bin\Debug\net6.0\EnumComposition.pdb
+L:\c#\EnumComposition\EnumComposition\obj\Debug\net6.0\EnumComposition.GeneratedMSBuildEditorConfig.editorconfig
+L:\c#\EnumComposition\EnumComposition\obj\Debug\net6.0\EnumComposition.AssemblyInfoInputs.cache
+L:\c#\EnumComposition\EnumComposition\obj\Debug\net6.0\EnumComposition.AssemblyInfo.cs
+L:\c#\EnumComposition\EnumComposition\obj\Debug\net6.0\EnumComposition.csproj.CoreCompileInputs.cache
+L:\c#\EnumComposition\EnumComposition\obj\Debug\net6.0\EnumComposition.dll
+L:\c#\EnumComposition\EnumComposition\obj\Debug\net6.0\refint\EnumComposition.dll
+L:\c#\EnumComposition\EnumComposition\obj\Debug\net6.0\EnumComposition.pdb
+L:\c#\EnumComposition\EnumComposition\obj\Debug\net6.0\EnumComposition.genruntimeconfig.cache
+L:\c#\EnumComposition\EnumComposition\obj\Debug\net6.0\ref\EnumComposition.dll
