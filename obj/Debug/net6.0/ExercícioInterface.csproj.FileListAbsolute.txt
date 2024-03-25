@@ -1,4 +1,0 @@
-L:\c#\ExercícioInterface\ExercícioInterface\obj\Debug\net6.0\ExercícioInterface.GeneratedMSBuildEditorConfig.editorconfig
-L:\c#\ExercícioInterface\ExercícioInterface\obj\Debug\net6.0\ExercícioInterface.AssemblyInfoInputs.cache
-L:\c#\ExercícioInterface\ExercícioInterface\obj\Debug\net6.0\ExercícioInterface.AssemblyInfo.cs
-L:\c#\ExercícioInterface\ExercícioInterface\obj\Debug\net6.0\ExercícioInterface.csproj.CoreCompileInputs.cache
