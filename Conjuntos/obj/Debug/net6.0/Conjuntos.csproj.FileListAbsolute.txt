@@ -1,0 +1,14 @@
+L:\c#\Conjuntos\Conjuntos\bin\Debug\net6.0\Conjuntos.exe
+L:\c#\Conjuntos\Conjuntos\bin\Debug\net6.0\Conjuntos.deps.json
+L:\c#\Conjuntos\Conjuntos\bin\Debug\net6.0\Conjuntos.runtimeconfig.json
+L:\c#\Conjuntos\Conjuntos\bin\Debug\net6.0\Conjuntos.dll
+L:\c#\Conjuntos\Conjuntos\bin\Debug\net6.0\Conjuntos.pdb
+L:\c#\Conjuntos\Conjuntos\obj\Debug\net6.0\Conjuntos.GeneratedMSBuildEditorConfig.editorconfig
+L:\c#\Conjuntos\Conjuntos\obj\Debug\net6.0\Conjuntos.AssemblyInfoInputs.cache
+L:\c#\Conjuntos\Conjuntos\obj\Debug\net6.0\Conjuntos.AssemblyInfo.cs
+L:\c#\Conjuntos\Conjuntos\obj\Debug\net6.0\Conjuntos.csproj.CoreCompileInputs.cache
+L:\c#\Conjuntos\Conjuntos\obj\Debug\net6.0\Conjuntos.dll
+L:\c#\Conjuntos\Conjuntos\obj\Debug\net6.0\refint\Conjuntos.dll
+L:\c#\Conjuntos\Conjuntos\obj\Debug\net6.0\Conjuntos.pdb
+L:\c#\Conjuntos\Conjuntos\obj\Debug\net6.0\Conjuntos.genruntimeconfig.cache
+L:\c#\Conjuntos\Conjuntos\obj\Debug\net6.0\ref\Conjuntos.dll
